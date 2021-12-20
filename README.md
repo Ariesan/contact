@@ -1,2 +1,2 @@
-# Hire Me form usung HTML and CSS
+# Hire Me form using HTML and CSS
 live preview : https://ariesan.github.io/contact/
